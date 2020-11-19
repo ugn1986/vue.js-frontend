@@ -1,21 +1,21 @@
-# vue.js-frontend
-This Repo have frontend code developed using Vue.js and consumes Python-Flask-RestApi backend. This is impplemented for Bank Management System.
-1.	npm install -g vue-cli
-2.	npm i -g @vue/cli-init
-3.	Project specific Commands
-•	vue init webpack my-project
-•	cd my-project
-•	npm install
-•	npm run dev
-•	npm install axios
+# env
 
+> A Vue.js project
 
- 
+## Build Setup
 
- 
+``` bash
+# install dependencies
+npm install
 
- 
+# serve with hot reload at localhost:8080
+npm run dev
 
- 
+# build for production with minification
+npm run build
 
+# build for production and view the bundle analyzer report
+npm run build --report
+```
 
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
